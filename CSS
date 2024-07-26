@@ -1,0 +1,22 @@
+employee-work-time-monitor/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── config/
+│   └── config.yml
+├── src/
+│   ├── main.py
+│   ├── attendance.py
+│   ├── schedule.py
+│   ├── leave.py
+│   ├── overtime.py
+│   └── reports.py
+├── tests/
+│   ├── test_attendance.py
+│   ├── test_schedule.py
+│   ├── test_leave.py
+│   ├── test_overtime.py
+│   └── test_reports.py
+├── docs/
+│   └── design.md
+└── requirements.txt
